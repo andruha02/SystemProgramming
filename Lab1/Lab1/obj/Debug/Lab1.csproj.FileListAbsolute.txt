@@ -1,0 +1,20 @@
+C:\Users\Lenovo Z570\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Lenovo Z570\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Lenovo Z570\source\repos\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Lenovo Z570\source\repos\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\Lenovo Z570\source\repos\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Lenovo Z570\source\repos\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Lenovo Z570\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\Lenovo Z570\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Z570\source\repos\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Lenovo Z570\source\repos\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\User\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\User\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\User\source\repos\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\User\source\repos\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\User\source\repos\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\User\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\User\source\repos\Lab1\Lab1\obj\Debug\Lab1.pdb

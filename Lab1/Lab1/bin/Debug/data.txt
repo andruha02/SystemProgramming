@@ -1,0 +1,5 @@
+Boyko Gnat 5 5 5 5 5
+Rudyi Andrii 4 4 4 4 4
+Melnik Dima 5 5 3 4 4
+Nikitin Nazar 3 3 3 3 4
+Petrov Volodya 4 4 4 4 4
